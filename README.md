@@ -1,3 +1,3 @@
 # MCAInternship
 DummyProject
-Author - Chandni
+Author - Chandni Nishad
